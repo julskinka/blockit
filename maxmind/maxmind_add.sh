@@ -1,5 +1,7 @@
 #!/bin/bash
 #
+# Author: https://github.com/julskinka
+#
 # Create blocklists with ipset and firewalld
 #
 # https://dev.maxmind.com/geoip/geoip2/geolite2/
