@@ -1,5 +1,8 @@
 #!/bin/bash
 #
+# Author: https://github.com/julskinka
+# https://opensource.org/licenses/GPL-3.0
+#
 # Remove blocklists with ipset and firewalld
 
 if [[ $(id -u) != "0" ]]
