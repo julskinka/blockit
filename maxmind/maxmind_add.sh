@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 # Author: https://github.com/julskinka
+# https://opensource.org/licenses/GPL-3.0
 #
 # Create blocklists with ipset and firewalld
 #
